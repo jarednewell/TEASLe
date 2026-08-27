@@ -5,7 +5,7 @@ Blockchain stores data immutably across distributed network servers, creating re
 Consequently, the Ternary Tree Enhanced Append-only Skip List (TEASL) indexing technique produced more consistent data retrieval times than EASL, and as a composite index, was now available on the blockchain client device. Thus, it introduces efficient access to blockchain data where maintaining a local blockchain copy is not feasible. 
 However, smart cards and microcontroller-based Internet of Things (IoT) devices with limited bandwidth require extremely low compute and storage use. To address this, we propose TEASLe, a flexible index class optimised for such constraints. We empirically validate TEASLe’s efficiency on smart cards and constrained IoT devices, using a real-world public blockchain, demonstrating practical blockchain data integration.
 
-### TEASLe composite index.
+### TEASLe composite index class with storage- (SE) and compute- (CE) efficient indexes.
 ![TEASLe composite blockchain index traversal](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
 
 
