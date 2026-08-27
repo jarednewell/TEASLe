@@ -8,6 +8,11 @@ However, smart cards and microcontroller-based Internet of Things (IoT) devices 
 ### TEASLe composite index class with storage- (SE) and compute- (CE) efficient indexes.
 ![TEASLe composite blockchain index traversal](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
 
+### TEASLe composite index device application.
+![TEASLe indexing on smart card ACOSJ-G](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
+![TEASLe indexing on Raspberry Pi Pico WH](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
+![TEASLe indexing on STM B-L072Z-LRWAN1](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
+
 
 ## The Node Construction Algorithm
 The algorithm and the supporting structure included in this repository is written in C++, all definitions and the implementation of TEASLe is included in the following article:
