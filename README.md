@@ -6,7 +6,7 @@ Consequently, the Ternary Tree Enhanced Append-only Skip List (TEASL) indexing t
 However, smart cards and microcontroller-based Internet of Things (IoT) devices with limited bandwidth require extremely low compute and storage use. To address this, we propose TEASLe, a flexible index class optimised for such constraints. We empirically validate TEASLe’s efficiency on smart cards and constrained IoT devices, using a real-world public blockchain, demonstrating practical blockchain data integration.
 
 ### TEASLe composite index class with storage- (SE) and compute- (CE) efficient indexes.
-![TEASLe composite blockchain index traversal](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20index.png)
+![TEASLe composite blockchain index traversal](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20indexing%20technique.png)
 
 ### TEASLe composite index device application.
 ![TEASLe indexing on smart card ACOSJ-G](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20smart%20card%20application.png)
