@@ -9,9 +9,9 @@ However, smart cards and microcontroller-based Internet of Things (IoT) devices 
 ![TEASLe composite blockchain index traversal](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20composite%20blockchain%20indexing%20technique.png)
 
 ### TEASLe composite index device application.
-![TEASLe indexing on smart card ACOSJ-G](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20on%20smart%20card.png)
-![TEASLe indexing on Raspberry Pi Pico WH](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20on%20Raspberry%20PI%20Pico.png)
-![TEASLe indexing on STM B-L072Z-LRWAN1](https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20STM32L072CZ%20IoT%20over%20LoRaWAN.png)
+<img src="https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20on%20smart%20card.png" alt="TEASLe indexing on smart card ACOSJ-G" width="400" height="600">
+<img src="https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20on%20Raspberry%20PI%20Pico.png" alt="TEASLe indexing on Raspberry Pi Pico WH" width="400" height="600">
+<img src="https://github.com/jarednewell/TEASLe/blob/main/TEASLe%20on%20STM32L072CZ%20IoT%20over%20LoRaWAN.png" alt="TEASLe indexing on STM B-L072Z-LRWAN1" width="400" height="600">
 
 
 ## The Node Construction Algorithm
