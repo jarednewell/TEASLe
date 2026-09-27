@@ -811,9 +811,9 @@ public class TEASLEIndex extends Applet {
         byte[] node2Transaction = {(byte) 0x07,(byte) 0x5B};
         leafEqualNode node123Equal = new leafEqualNode(node2Block,node2Transaction);
         
-        //byte[] node3Block = {(byte) 0x34,(byte) 0x6C,(byte) 0x83};
-        //byte[] node3Transaction = {(byte) 0x0C,(byte) 0xF7};
-        //leafEqualNode node123Right = new leafEqualNode(node3Block,node3Transaction);
+        byte[] node3Block = {(byte) 0x34,(byte) 0x6C,(byte) 0x83};
+        byte[] node3Transaction = {(byte) 0x0C,(byte) 0xF7};
+        leafEqualNode node123Right = new leafEqualNode(node3Block,node3Transaction);
         
         teaslseLeafNode node123 = new teaslseLeafNode(node123Version,node123Left,node123Equal,null);
         
